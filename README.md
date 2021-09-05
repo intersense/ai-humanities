@@ -12,3 +12,9 @@ pip list --format=freeze > requirements.txt
 ```python
 pip install -r requirements.txt
 ``` 
+
+在Jupyter中将需要的包安装到当前的kernel使用如下命令：
+```python
+import sys
+!{sys.executable} -m pip install wordcloud
+```
