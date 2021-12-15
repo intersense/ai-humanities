@@ -1,3 +1,4 @@
+descartes
 folium
 geopandas
 geopy
