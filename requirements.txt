@@ -7,6 +7,8 @@ jieba
 matplotlib
 matplotlib-inline
 networkx
+pyvis
+jaal
 pandas
 Pillow
 pyproj
