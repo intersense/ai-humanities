@@ -19,4 +19,4 @@ import sys
 !{sys.executable} -m pip install wordcloud
 ```
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https://github.com/intersense/ai-humanities.git)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https://github.com/intersense/ai-humanities.git/HEAD)
