@@ -1,7 +1,7 @@
-# AI-Humanities
+# Scaffolding + Pipeline for Humanities Programming
 
 ## 介绍
-本项目展示数字人文研究中广泛应用的文本分析与挖掘、网络分析、自然语言处理以及地理信息系统等相关技术的应用代码案例。
+
 
 ## 安装依赖包
 
